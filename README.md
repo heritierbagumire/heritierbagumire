@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fghjkcghj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fghjkcghj" /></a><a href="https://ko-fi.com/cvhjk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cvhjk" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/heir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heir" /></a><a href="https://ko-fi.com/cvhjk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cvhjk" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heritierbagumire&show_icons=true&locale=en&layout=compact" alt="heritierbagumire" /></p>
